@@ -1,2 +1,3 @@
 # Practical-Deep-Learning-2022-Part-1
 see https://course.fast.ai/
+I first started looking at this course in autumn 2023. After a few months of inactivity due to other priorities I am going to give it another try. On April 1st 2024 I started again. In the first lecture I heard a reference to https://radekosmulski.com/meta-learning-introduction/ a wonderfull book which makes you think about the way you are appoaching your learning goal. It is clear that my pitfall is to start over-enthousiastically such that the time investment is no longer compatible with my family and professional life. Therefore my intention now is to create a realistic habit of studying a little bit (almost) every day.
